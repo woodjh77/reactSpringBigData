@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ReactSpringBigDataApplication {
 
 	public static void main(String[] args) {
+		//Hi.
 		SpringApplication.run(ReactSpringBigDataApplication.class, args);
 	}
 }
